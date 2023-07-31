@@ -1,7 +1,4 @@
 # My very first header
-
-====
-
 ----
 
 ```
